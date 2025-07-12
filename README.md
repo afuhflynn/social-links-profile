@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/yourusername/social-links-profile)
-- Live Site URL: [Live Demo](https://yourusername.github.io/social-links-profile)
+- Live Site URL: [Live Demo](https://beamish-choux-cc5db0.netlify.app)
 
 ## My process
 
